@@ -1,6 +1,7 @@
 import MainLayout from './modules/layout/layout'
 import 'antd/dist/antd.css';
-import './stylesheet/css/style.css'
+import './stylesheet/sass/style.css'
+
 
 function App() {
   return (
